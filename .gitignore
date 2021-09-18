@@ -10,3 +10,7 @@ logs
 
 # dist
 dist
+
+# private
+data-tools/
+
